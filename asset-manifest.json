@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ssmt-solutions/static/css/main.8ffbdb6d.css",
-    "main.js": "/ssmt-solutions/static/js/main.f782e858.js",
+    "main.css": "/ssmt-solutions/static/css/main.366dc026.css",
+    "main.js": "/ssmt-solutions/static/js/main.a86e5ae0.js",
     "static/js/453.8ab44547.chunk.js": "/ssmt-solutions/static/js/453.8ab44547.chunk.js",
     "static/media/logo.svg": "/ssmt-solutions/static/media/logo.18b3be0214a1e49168db3a6039c2c325.svg",
     "index.html": "/ssmt-solutions/index.html",
-    "main.8ffbdb6d.css.map": "/ssmt-solutions/static/css/main.8ffbdb6d.css.map",
-    "main.f782e858.js.map": "/ssmt-solutions/static/js/main.f782e858.js.map",
+    "main.366dc026.css.map": "/ssmt-solutions/static/css/main.366dc026.css.map",
+    "main.a86e5ae0.js.map": "/ssmt-solutions/static/js/main.a86e5ae0.js.map",
     "453.8ab44547.chunk.js.map": "/ssmt-solutions/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ffbdb6d.css",
-    "static/js/main.f782e858.js"
+    "static/css/main.366dc026.css",
+    "static/js/main.a86e5ae0.js"
   ]
 }
