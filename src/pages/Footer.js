@@ -7,7 +7,7 @@ import { FaLinkedinIn } from "react-icons/fa";
 function Footer() {
     return (
         <div className='footer-main'>
-            <h1>This footer page</h1>
+           
 
 
             <div class="container1">
@@ -81,7 +81,7 @@ function Footer() {
 
 <div className='footer-line'></div>
 
-<h1>footer page</h1>
+<p className='footer-mark'>© 2024 SSMT Solutions. All rights reserved.</p>
         </div>
     )
 }

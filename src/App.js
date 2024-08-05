@@ -4,9 +4,10 @@
 import Router from "./pages/Router";
 import Footer from "./pages/Footer";
 import './pages/footer.css';
+import './pages/home.css';
 function App() {
   return (
-    <div className="App">
+    <div  className="App">
       <header className="App-header">
        
       <Router/>
